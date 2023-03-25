@@ -1,6 +1,5 @@
 # TecWeb-T01-HTML
 Trabalho 01 de Tecnologias Web 2023.1 sobre HTML<br>
-* Mat.: 471584
 
 Este trabalho é a implementação de uma página web para uma empresa fictícia de assistência técnica de celular.
 
